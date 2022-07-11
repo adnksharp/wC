@@ -1,5 +1,7 @@
 # Uso de clases en CSS
 
+[![K-052.jpg](https://i.postimg.cc/GmxGdqPY/K-052.jpg)](https://postimg.cc/LJhnVkb6)
+
 Cambiando estilos en CSS...
 
 - Un boton en HTML permite cambiar el estilo de un elemento.
