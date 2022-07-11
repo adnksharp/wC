@@ -1,0 +1,35 @@
+body,
+button {
+    font-family: 'SF Pro Display', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    border: 0.2em solid #555;
+    cursor: pointer;
+    left: 0.5vw;
+    padding: 1em;
+    position: absolute;
+    top: 92vh;
+}
+
+.theme-1,
+.theme-2 button {
+    background-color: #22272b;
+    color: #fcc920;
+}
+
+.theme-2,
+.theme-3 button {
+    background-color: #000;
+    color: #fff;
+}
+
+.theme-3,
+.theme-1 button {
+    background-color: #ddd;
+    color: #000;
+}
